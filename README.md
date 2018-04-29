@@ -8,5 +8,5 @@ This scripts have been developed using IronPython in Dynamo Studio to Optimize a
 3. TopCirRad: radius of the top opennings of the printed domes
 4. SideCurveRad: side revoliotion arch height
 
-**Componant Inputs:**
+**Componant Outputs:**
 1. List of Coordinate System for the tool path and tool orientation
